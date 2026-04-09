@@ -2,6 +2,10 @@
 
 A Streamlit web application that uses LangChain and OpenAI to help legal professionals review, query, and summarize legal PDF documents.
 
+## Live Demo
+
+**[Launch the app](https://legal-document-reviewer-22c4dymz4vkh8mtndkchng.streamlit.app/)** — hosted on Streamlit Community Cloud. No installation required; bring your own OpenAI API key.
+
 ## Features
 
 - **PDF Upload & Text Extraction** — Extract text from legal PDFs using PyPDF2
